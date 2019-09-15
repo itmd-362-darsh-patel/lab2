@@ -8,7 +8,7 @@
 </head>
 <body>
   <div id="main_title">
-    <h2>Account Signup</h2>
+    <h1>Account Signup</h1>
   </div>
   <form method="POST" autocomplete="on" action="#">
     <div id="body">
@@ -21,9 +21,19 @@
         </div>
         <div id="email">
           <label>Email: <input type="text" name="email"></label>
-        </div>					
-  
-	
-
+        </div>
+        <div id="address">
+          <label>Address: <input type="address" name="address"></label>
+        </div>
+        <div id="phone">
+          <label>Phone Number: <input type="tel" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"></label>
+        </div>
+        <div id="dob">
+          <label>Date of Birth: <input type="date" name="dob"></label>
+        </div>
+      </fieldset>
+    </div>
+    <input type="submit" value="Register"/>
+  </form>
 </body>
 </html>	
