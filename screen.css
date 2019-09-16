@@ -9,7 +9,7 @@ body {
   padding: 10px;	
   font-size: 4em;
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 900;
+  font-weight: 920;
   color: #7B241C;
 }
 
@@ -56,30 +56,43 @@ body {
 }
 
 input[type=text] {
-  width: ;  
+  width: 350px;  
   padding: 13px 8px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
   border: solid #7B241C;     
+  font-size: 1.7em;
 }
 
 input[type=email] {
-  width: 70%;  
+  width: 350px;   
   padding: 13px 8px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
-  border: solid #7B241C;	
+  border: solid #7B241C;
+  font-size: 1.7em;	
 }
 
 input[type=tel] {
-  width: 70%;  
+  width: 350px;   
   padding: 13px 8px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
-  border: solid #7B241C;    	
+  border: solid #7B241C; 
+  font-size: 1.7em;	
+}
+
+input[type=date] {
+  width: 350px;   
+  padding: 13px 8px;
+  margin: 8px 0;	
+  border-radius: 15px 50px 30px 30px;
+  background-color: #f8f8f8;
+  border: solid #7B241C; 
+  font-size: 1.7em;  	
 }
 
 input[type=submit] {
@@ -96,5 +109,10 @@ input[type=submit] {
   background-color: white;
   color: black;
   border: 2px solid #555555;
-  	
+  font-size: 1.9em;  	
 }
+
+@media only screen and (min-width: 992px) {
+	
+}
+
