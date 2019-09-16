@@ -2,3 +2,8 @@ body {
   background: rgb(230,169,127);
   background: linear-gradient(90deg, rgba(230,169,127,1) 36%,rgba(0,212,255,1) 100%);	
 }
+
+#main_title {
+  padding: .5em .5em .2em .5em;
+  margin: .5em;	
+}
