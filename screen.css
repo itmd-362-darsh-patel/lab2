@@ -6,6 +6,33 @@ body {
 #main_title {
   padding: .5em .5em .2em .5em;
   margin: .5em;	
-  font-size: 2em;
+  font-size: 2.5em;
   font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  color: #7B241C;
 }
+
+#first_name {
+  padding: .6em;            	
+}
+
+#last_name {
+  padding: .6em;	
+}
+
+#email {
+  padding: .6em;	
+}
+
+#address {
+  padding: .6em;	
+}
+
+#phone {
+  padding: .6em;	
+}
+
+#dob {
+  padding: .6em;	
+}
+
