@@ -114,5 +114,58 @@ input[type=submit] {
 
 @media only screen and (min-width: 992px) {
 	
+  #main_title {
+  padding: 10px;	
+  font-size: 3em;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 920;
+  color: #7B241C;
+  }
+  
+  #first_name {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }
+
+#last_name {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }
+
+#email {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }
+
+#address {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }
+
+#phone {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }
+
+#dob {
+  padding: .3em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.2em;
+  color: #534746;	
+  }	
+
+
+
+  
 }
 
