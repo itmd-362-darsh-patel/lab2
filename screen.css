@@ -65,6 +65,10 @@ input[type=text] {
   font-size: 1.7em;
 }
 
+input[type=text]:focus {
+  background-color: #DCDCDC;     
+}
+
 input[type=email] {
   width: 350px;   
   padding: 13px 8px;
@@ -73,6 +77,10 @@ input[type=email] {
   background-color: #f8f8f8;
   border: solid #7B241C;
   font-size: 1.7em;	
+}
+
+input[type=email]:focus {
+  background-color: #DCDCDC;     
 }
 
 input[type=tel] {
@@ -85,6 +93,10 @@ input[type=tel] {
   font-size: 1.7em;	
 }
 
+input[type=tel]:focus {
+  background-color: #DCDCDC;     
+}
+
 input[type=date] {
   width: 350px;   
   padding: 13px 8px;
@@ -93,6 +105,10 @@ input[type=date] {
   background-color: #f8f8f8;
   border: solid #7B241C; 
   font-size: 1.7em;  	
+}
+
+input[type=date]:focus {
+  background-color: #DCDCDC;     
 }
 
 input[type=submit] {
@@ -137,7 +153,7 @@ input[type=submit] {
   font-weight: bold;	
   }
 
-#last_name {
+  #last_name {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
@@ -145,7 +161,7 @@ input[type=submit] {
   font-weight: bold;
   }
   
-#email {
+  #email {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
@@ -153,7 +169,7 @@ input[type=submit] {
   font-weight: bold;	
   }
 
-#address {
+  #address {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
@@ -161,7 +177,7 @@ input[type=submit] {
   font-weight: bold;	
   }
 
-#phone {
+  #phone {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
@@ -169,7 +185,7 @@ input[type=submit] {
   font-weight: bold;	
   }
 
-#dob {
+  #dob {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
@@ -186,8 +202,12 @@ input[type=submit] {
   border: solid #7B241C;     
   font-size: 1.3em;
   }
+  
+  input[type=text]:focus {
+  background-color: #DCDCDC;     
+  }		
 
-input[type=email] {
+  input[type=email] {
   width: 850px;  
   padding: 4px 4px;
   margin: 8px 0;	
@@ -196,8 +216,12 @@ input[type=email] {
   border: solid #7B241C;     
   font-size: 1.3em;
   }
+	
+  input[type=email]:focus {
+  background-color: #DCDCDC;     
+  }	
 
-input[type=tel] {
+  input[type=tel] {
   width: 850px;  
   padding: 4px 4px;
   margin: 8px 0;	
@@ -206,8 +230,12 @@ input[type=tel] {
   border: solid #7B241C;     
   font-size: 1.3em;
   }
-
-input[type=date] {
+	
+  input[type=tel]:focus {
+  background-color: #DCDCDC;     
+  }	
+  
+  input[type=date] {
   width: 850px;  
   padding: 1px 2px;
   margin: 8px 0;	
@@ -216,8 +244,12 @@ input[type=date] {
   border: solid #7B241C;     
   font-size: 1.3em;
   }
-
-input[type=submit] {
+ 	
+  input[type=date]:focus {
+  background-color: #DCDCDC;     
+  }
+  
+  input[type=submit] {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   border: none;
