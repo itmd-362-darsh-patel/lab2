@@ -9,7 +9,7 @@ body {
   padding: 10px;	
   font-size: 4em;
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 920;
+  font-weight: bold;
   color: #7B241C;
 }
 
@@ -127,7 +127,7 @@ input[type=submit] {
   padding: 10px;	
   font-size: 3em;
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 920;
+  font-weight: bold;
   color: #7B241C;
   }
   
