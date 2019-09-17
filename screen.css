@@ -97,20 +97,6 @@ input[type=tel]:focus {
   background-color: #DCDCDC;     
 }
 
-input[type=date] {
-  width: 350px;   
-  padding: 13px 8px;
-  margin: 8px 0;	
-  border-radius: 15px 50px 30px 30px;
-  background-color: #f8f8f8;
-  border: solid #7B241C; 
-  font-size: 1.7em;  	
-}
-
-input[type=date]:focus {
-  background-color: #DCDCDC;     
-}
-
 input[type=submit] {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
@@ -234,20 +220,6 @@ input[type=submit] {
   input[type=tel]:focus {
   background-color: #DCDCDC;     
   }	
-  
-  input[type=date] {
-  width: 850px;  
-  padding: 1px 2px;
-  margin: 8px 0;	
-  border-radius: 15px 50px 30px 30px;
-  background-color: #f8f8f8;
-  border: solid #7B241C;     
-  font-size: 1.3em;
-  }
- 	
-  input[type=date]:focus {
-  background-color: #DCDCDC;     
-  }
   
   input[type=submit] {
   -webkit-transition-duration: 0.4s;
