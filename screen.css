@@ -182,7 +182,7 @@ input[type=submit]:hover {
 
   input[type=text] {
   width: 350px;  
-  padding: 13px 8px;
+  padding: 7px 5px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
@@ -196,7 +196,7 @@ input[type=submit]:hover {
 
   input[type=email] {
   width: 350px;   
-  padding: 13px 8px;
+  padding: 7px 5px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
@@ -210,7 +210,7 @@ input[type=submit]:hover {
   
   input[type=tel] {
   width: 350px;   
-  padding: 13px 8px;
+  padding: 7px 5px;
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
