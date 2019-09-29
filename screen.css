@@ -123,17 +123,22 @@ input[type=submit] {
 }
 
 @media only screen and (min-width: 768px) {
-                 
+     
+  body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1000px 800px;
+  }                 
 }
-  
-
+   
+ 
 @media only screen and (min-width: 992px) {
    
   body {
   background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-size: 1536px 800px;
-}
+  }
   	
   #main_title {
   padding: 10px;	
