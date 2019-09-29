@@ -135,49 +135,49 @@ input[type=submit]:hover {
   font-size: 3.5em;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  color: #7B241C;
+  color: #B6C2C6;
   }
   
   #first_name {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;	
+  color: #EAE1E1;	
   }
   
   #last_name {
   padding: .3em;
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;		
+  color: #EAE1E1;		
   }
   
   #email {
   padding: .3em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;	
+  color: #EAE1E1;	
   }
 
   #address {
   padding: .3em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;	
+  color: #EAE1E1;	
   }
 
   #phone {
   padding: .3em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;	
+  color: #EAE1E1;	
   }
 
   #dob {
   padding: .3em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.2em;
-  color: #534746;	
+  color: #EAE1E1;	
   }
 
   input[type=text] {
@@ -259,14 +259,14 @@ input[type=submit]:hover {
   font-size: 3em;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  color: #7B241C;
+  color: #B6C2C6;
   }
   
   #first_name {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;	
   }
   
@@ -274,7 +274,7 @@ input[type=submit]:hover {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;
   }
   
@@ -282,7 +282,7 @@ input[type=submit]:hover {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;	
   }
 
@@ -290,7 +290,7 @@ input[type=submit]:hover {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;	
   }
 
@@ -298,7 +298,7 @@ input[type=submit]:hover {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;	
   }
 
@@ -306,7 +306,7 @@ input[type=submit]:hover {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1em;
-  color: #534746;
+  color: #EAE1E1;
   font-weight: bold;
   }	
 	
