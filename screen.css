@@ -117,7 +117,7 @@ input[type=submit] {
   font-family: 'Ubuntu', sans-serif; 
 }
   
-  input[type=submit]:hover {
+input[type=submit]:hover {
   background-color: #555555;
   color: white;	
 }
@@ -129,7 +129,121 @@ input[type=submit] {
   background-repeat: no-repeat;
   background-size: 1000px 800px;
   }                 
-}
+    
+  #main_title {
+  padding: 10px;	
+  font-size: 4em;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  color: #7B241C;
+  }
+  
+  #first_name {
+  padding: .6em; 
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;	
+  }
+  
+  #last_name {
+  padding: .6em;
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;		
+  }
+  
+  #email {
+  padding: .6em;	
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;	
+  }
+
+  #address {
+  padding: .6em;	
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;	
+  }
+
+  #phone {
+  padding: .6em;	
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;	
+  }
+
+  #dob {
+  padding: .6em;	
+  font-family: 'Ubuntu', sans-serif;	
+  font-size: 1.6em;
+  color: #534746;	
+  }
+
+  input[type=text] {
+  width: 350px;  
+  padding: 13px 8px;
+  margin: 8px 0;	
+  border-radius: 15px 50px 30px 30px;
+  background-color: #f8f8f8;
+  border: solid #7B241C;     
+  font-size: 1.7em;
+  }
+  
+  input[type=text]:focus {
+  background-color: #DCDCDC;     
+  }
+
+  input[type=email] {
+  width: 350px;   
+  padding: 13px 8px;
+  margin: 8px 0;	
+  border-radius: 15px 50px 30px 30px;
+  background-color: #f8f8f8;
+  border: solid #7B241C;
+  font-size: 1.7em;	
+  }
+  
+  input[type=email]:focus {
+  background-color: #DCDCDC;     
+  }
+  
+  input[type=tel] {
+  width: 350px;   
+  padding: 13px 8px;
+  margin: 8px 0;	
+  border-radius: 15px 50px 30px 30px;
+  background-color: #f8f8f8;
+  border: solid #7B241C; 
+  font-size: 1.7em;	
+  }
+  
+  input[type=tel]:focus {
+  background-color: #DCDCDC;     
+  }
+  
+  input[type=submit] {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 30px 10px;
+  cursor: pointer;  	
+  background-color: white;
+  color: black;
+  border: 2px solid #555555; 	
+  font-family: 'Ubuntu', sans-serif; 
+  }
+  
+  input[type=submit]:hover {
+  background-color: #555555;
+  color: white;	
+  }	
+} 
    
  
 @media only screen and (min-width: 992px) {
