@@ -1,13 +1,13 @@
 body {
   background-image: url("background.jpg");
   background-repeat: no-repeat;
-  background-size: 1536px 800px;   
+  background-size: 56px 800px;   
   background: rgb(230,169,127);
   background: linear-gradient(90deg, rgba(230,169,127,1) 36%,rgba(0,212,255,1) 100%);	
   margin: 0 auto;	
   width: 50%;	
 }
-
+  
 #main_title {
   padding: 10px;	
   font-size: 4em;
@@ -15,14 +15,14 @@ body {
   font-weight: bold;
   color: #7B241C;
 }
-
+  
 #first_name {
   padding: .6em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
   color: #534746;	
 }
-
+  
 #last_name {
   padding: .6em;
   font-family: 'Ubuntu', sans-serif;	
