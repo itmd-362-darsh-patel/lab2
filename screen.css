@@ -1,4 +1,7 @@
 body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1536px 800px;   
   background: rgb(230,169,127);
   background: linear-gradient(90deg, rgba(230,169,127,1) 36%,rgba(0,212,255,1) 100%);	
   margin: 0 auto;	
@@ -125,7 +128,13 @@ input[type=submit] {
   
 
 @media only screen and (min-width: 992px) {
-	
+   
+  body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1536px 800px;
+}
+  	
   #main_title {
   padding: 10px;	
   font-size: 3em;
@@ -141,7 +150,7 @@ input[type=submit] {
   color: #534746;
   font-weight: bold;	
   }
-
+  
   #last_name {
   padding: .3em; 
   font-family: 'Ubuntu', sans-serif;	
