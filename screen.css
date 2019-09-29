@@ -226,11 +226,11 @@ input[type=submit]:hover {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   border: none;
-  padding: 16px 32px;
+  padding: 12px 24px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 23px;
+  font-size: 20px;
   margin: 30px 10px;
   cursor: pointer;  	
   background-color: white;
